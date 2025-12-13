@@ -1319,12 +1319,12 @@ document.addEventListener('DOMContentLoaded', function() {
                         // YouTube video
                         const embedUrl = videoUrl.includes('embed') ? videoUrl : videoUrl.replace('watch?v=', 'embed/').replace('youtu.be/', 'youtube.com/embed/');
                         galleryLightboxContent.innerHTML = `
-                            <iframe src="${embedUrl}?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="w-full h-full"></iframe>
+                            <iframe src="${embedUrl}?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="h-[85vh] max-h-[85vh] max-w-[90vw] w-auto" style="object-fit: contain;"></iframe>
                         `;
                     } else {
                         // Uploaded video (MP4, WebM, etc.)
                         galleryLightboxContent.innerHTML = `
-                            <video controls autoplay class="w-full h-full" style="object-fit: contain;">
+                            <video controls autoplay class="h-[85vh] max-h-[85vh] max-w-[90vw] w-auto" style="object-fit: contain;">
                                 <source src="${videoUrl}" type="video/mp4">
                                 <source src="${videoUrl}" type="video/webm">
                                 Your browser does not support the video tag.
@@ -1333,7 +1333,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     }
                 } else if (type === 'image' && src) {
                     galleryLightboxContent.innerHTML = `
-                        <img src="${src}" alt="Gallery Image" class="w-full h-full object-contain">
+                        <img src="${src}" alt="Gallery Image" class="h-[85vh] max-h-[85vh] max-w-[90vw] w-auto object-contain">
                     `;
                 }
                 
