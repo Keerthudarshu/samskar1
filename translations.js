@@ -77,30 +77,50 @@ const TRANSLATIONS = {
         testimonials_what_they_say: "What They Say",
         
         // Individual testimonials (English)
-        testimonial_1_name: "Priya Sharma",
+        testimonial_1_name: "Karunya Ram",
         testimonial_1_role: "Women Empowerment Program Graduate",
         testimonial_1_text: "Samsakar Trust gave me the skills and confidence to start my own business. Today, I'm financially independent and supporting my family.",
 
-        testimonial_2_name: "Anjali Patel",
+        testimonial_2_name: "Priyanka Upendra",
         testimonial_2_role: "Education Scholarship Recipient",
         testimonial_2_text: "Thanks to the scholarship program, I could complete my education. I'm now a teacher, helping other children achieve their dreams.",
 
-        testimonial_3_name: "Meera Devi",
+        testimonial_3_name: "Sapthaami Gowda",
         testimonial_3_role: "Medical Aid Beneficiary",
         testimonial_3_text: "The free health camp saved my life. The doctors were compassionate and the treatment was excellent. I'm forever grateful.",
 
-        testimonial_4_name: "Kavita Singh",
+        testimonial_4_name: "Dheeren R K",
         testimonial_4_role: "Skill Development Program Participant",
         testimonial_4_text: "The vocational training program changed my life. I learned tailoring and now run a successful business from home.",
 
-        testimonial_5_name: "Sunita Kumari",
+        testimonial_5_name: "Tejaswini Prakash",
         testimonial_5_role: "Food Support Program Beneficiary",
         testimonial_5_text: "During difficult times, Samsakar Trust provided food for my family. Their support gave us hope and strength to overcome challenges.",
 
         // Additional testimonial (English)
-        testimonial_6_name: "Rekha Verma",
+        testimonial_6_name: "Alok Babu R",
         testimonial_6_role: "Community Leader",
         testimonial_6_text: "Samsakar Trust has empowered hundreds of women in our community. Their programs are making a real difference in people's lives.",
+        
+        testimonial_7_name: "Brinda Acharya",
+        testimonial_7_role: "Women Empowerment Program Graduate",
+        testimonial_7_text: "Samsakar Trust gave me the skills and confidence to start my own business. Today, I'm financially independent and supporting my family.",
+
+        testimonial_8_name: "Laxmi Krishna",
+        testimonial_8_role: "Education Scholarship Recipient",
+        testimonial_8_text: "Thanks to the scholarship program, I could complete my education. I'm now a teacher, helping other children achieve their dreams.",
+       
+        testimonial_9_name: "Kushee Ravi",
+        testimonial_9_role: "Medical Aid Beneficiary",
+        testimonial_9_text: "The free health camp saved my life. The doctors were compassionate and the treatment was excellent. I'm forever grateful.",
+
+        testimonial_10_name: "Prem Nenapirali",
+        testimonial_10_role: "Skill Development Program Participant",
+        testimonial_10_text: "The vocational training program changed my life. I learned tailoring and now run a successful business from home.",
+        
+        testimonial_11_name: "Sukrutha Wagle",
+        testimonial_11_role: "Food Support Program Beneficiary",
+        testimonial_11_text: "During difficult times, Samsakar Trust provided food for my family. Their support gave us hope and strength to overcome challenges.",
 
         // Gallery Section
         gallery_title: "Women Empowerment Gallery",
@@ -292,31 +312,50 @@ const TRANSLATIONS = {
         testimonials_voices: "ಭರವಸೆಯ ಧ್ವನಿಗಳು",
         testimonials_what_they_say: "ಅವರು ಏನು ಹೇಳುತ್ತಾರೆ",
 
-        // Individual testimonials (Kannada / transliterated)
-        testimonial_1_name: "ಪ್ರಿಯಾ ಶರ್ಮಾ",
+        // Individual testimonials (Kannada)
+        testimonial_1_name: "ಕರುಣ್ಯಾ ರಾಮ್",
         testimonial_1_role: "ಮಹಿಳಾ ಸಬಲೀಕರಣ ಕಾರ್ಯಕ್ರಮವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದವರು",
         testimonial_1_text: "ಸಂಸ್ಕಾರ ಟ್ರಸ್ಟ್ ನನಗೆ ನನ್ನದೇ ಆದ ವ್ಯವಹಾರವನ್ನು ಆರಂಭಿಸಲು ಕೌಶಲ್ಯಗಳು ಮತ್ತು ಆತ್ಮವಿಶ್ವಾಸ ನೀಡಿತು. ಇಂದು, ನಾನು ಆರ್ಥಿಕವಾಗಿ ಸ್ವತಂತ್ರನಾಗಿದ್ದೇನೆ ಮತ್ತು ನಾನು ನನ್ನ ಕುಟುಂಬವನ್ನು ಬೆಂಬಲಿಸುತ್ತಿದ್ದೇನೆ.",
 
-        testimonial_2_name: "ಅಂಜಲಿ ಪಟೇಲ್",
+        testimonial_2_name: "ಪ್ರಿಯಾಂಕಾ ಉಪೇಂದ್ರ",
         testimonial_2_role: "ಶಿಕ್ಷಣ ನೆರವು ಪಡೆದವರು",
         testimonial_2_text: "ಶಾಲರಿ ಕಾರ್ಯಕ್ರಮದ ಧನ್ಯವಾದಗಳು, ನಾನು ನನ್ನ ಶಿಕ್ಷಣವನ್ನು ಪೂರ್ಣಗೊಳಿಸಬಲ್ಲೆ. ನಾನು ಈಗ ಶಿಕ್ಷಕಿ ಆಗಿ ಇತರ ಮಕ್ಕಳ ಕನಸುಗಳನ್ನು ನೆರವಾಗುತ್ತಿದ್ದೇನೆ.",
 
-        testimonial_3_name: "ಮೀನಾ ದೇವಿ",
+        testimonial_3_name: "ಸಪ್ತಾಮಿ ಗೌಡ",
         testimonial_3_role: "ವೈದ್ಯಕೀಯ ನೆರವಿನ ಪ್ರಯೋಜನಗೊಳ್ಳುವವರು",
         testimonial_3_text: "ಉಚಿತ ಆರೋಗ್ಯ ಶಿಬಿರವು ನನ್ನ ಜೀವವನ್ನು ಉಳಿಸಿತು. ವೈದ್ಯರು ಅಗತ್ಯತೆ ಮತ್ತು ಚಿಕಿತ್ಸೆ ಅತ್ಯುತ್ತಮವಾಗಿತ್ತು. ನಾನು ಯಾವಾಗಲೂ ಕೃತಜ್ಞಳಾಗಿದ್ದೇನೆ.",
 
-        testimonial_4_name: "ಕವಿತಾ ಸಿಂಗ್",
+        testimonial_4_name: "ಧೀರೇನ್ ಆರ್ ಕೆ",
         testimonial_4_role: "ಕೌಶಲ್ಯ ಅಭಿವೃದ್ಧಿ ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ ಭಾಗವಹಿಸಿದವರು",
         testimonial_4_text: "ವೃತ್ತಿಪರ ತರಬೇತಿ ಕಾರ್ಯಕ್ರಮವು ನನ್ನ ಜೀವನವನ್ನು ಬದಲಾಯಿಸಿತು. ನಾನು ಟೇಲರಿಂಗ್ ಕಲಿತೆ ಮತ್ತು ಈಗ ಮನೆಯಿಂದ ಯಶಸ್ವಿ ವ್ಯವಹಾರವನ್ನು ನಡೆಸುತ್ತಿದ್ದೇನೆ.",
 
-        testimonial_5_name: "ಸುನಿತಾ ಕುಮಾರಿ",
+        testimonial_5_name: "ತೇಜಸ್ವಿನಿ ಪ್ರಕಾಶ್",
         testimonial_5_role: "ಆಹಾರ ಬೆಂಬಲ ಕಾರ್ಯಕ್ರಮ ಪ್ರಯೋಜನಿಗೊಂಡವರು",
         testimonial_5_text: "ಕಷ್ಟದ ಸಮಯದಲ್ಲಿ, ಸಂಸ್ಕಾರ ಟ್ರಸ್ಟ್ ನನ್ನ ಕುಟುಂಬಕ್ಕೆ ಆಹಾರ ಒದಗಿಸಿತು. ಅವರ ಬೆಂಬಲವು ನಮಗೆ ಭರವಸೆ ಮತ್ತು ಶಕ್ತಿ ನೀಡಿತು.",
         
-            // Additional testimonial (Kannada)
-            testimonial_6_name: "ರೇಖಾ ವರ್ಮಾ",
-            testimonial_6_role: "ಸಮುದಾಯ ನಾಯಕರ",
-            testimonial_6_text: "ಸಂಸ್ಕಾರ ಟ್ರಸ್ಟ್ ನಮ್ಮ ಸಮುದಾಯದಲ್ಲಿ ನೂರಾರು ಮಹಿಳೆಯರನ್ನು ಸಬಲಗೊಳಿಸಿದೆ. ಅವರ ಕಾರ್ಯಕ್ರಮಗಳು ಜನರ ಜೀವನಗಳಲ್ಲಿ ನಿಜವಾದ ಬದಲಾವಣೆಯನ್ನು ತಂದಿದೆ.",
+        testimonial_6_name: "ಅಲೋಕ್ ಬಾಬು ಆರ್",
+        testimonial_6_role: "ಸಮುದಾಯ ನಾಯಕರು",
+        testimonial_6_text: "ಸಂಸ್ಕಾರ ಟ್ರಸ್ಟ್ ನಮ್ಮ ಸಮುದಾಯದಲ್ಲಿ ನೂರಾರು ಮಹಿಳೆಯರನ್ನು ಸಬಲಗೊಳಿಸಿದೆ. ಅವರ ಕಾರ್ಯಕ್ರಮಗಳು ಜನರ ಜೀವನಗಳಲ್ಲಿ ನಿಜವಾದ ಬದಲಾವಣೆಯನ್ನು ತಂದಿದೆ.",
+
+        testimonial_7_name: "ಬೃಂದಾ ಆಚಾರ್ಯ",
+        testimonial_7_role: "ಮಹಿಳಾ ಸಬಲೀಕರಣ ಕಾರ್ಯಕ್ರಮವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದವರು",
+        testimonial_7_text: "ಸಂಸ್ಕಾರ ಟ್ರಸ್ಟ್ ನನಗೆ ನನ್ನದೇ ಆದ ವ್ಯವಹಾರವನ್ನು ಆರಂಭಿಸಲು ಕೌಶಲ್ಯಗಳು ಮತ್ತು ಆತ್ಮವಿಶ್ವಾಸ ನೀಡಿತು. ಇಂದು, ನಾನು ಆರ್ಥಿಕವಾಗಿ ಸ್ವತಂತ್ರನಾಗಿದ್ದೇನೆ ಮತ್ತು ನಾನು ನನ್ನ ಕುಟುಂಬವನ್ನು ಬೆಂಬಲಿಸುತ್ತಿದ್ದೇನೆ.",
+
+        testimonial_8_name: "ಲಕ್ಷ್ಮಿ ಕೃಷ್ಣ",
+        testimonial_8_role: "ಶಿಕ್ಷಣ ನೆರವು ಪಡೆದವರು",
+        testimonial_8_text: "ಶಾಲರಿ ಕಾರ್ಯಕ್ರಮದ ಧನ್ಯವಾದಗಳು, ನಾನು ನನ್ನ ಶಿಕ್ಷಣವನ್ನು ಪೂರ್ಣಗೊಳಿಸಬಲ್ಲೆ. ನಾನು ಈಗ ಶಿಕ್ಷಕಿ ಆಗಿ ಇತರ ಮಕ್ಕಳ ಕನಸುಗಳನ್ನು ನೆರವಾಗುತ್ತಿದ್ದೇನೆ.",
+
+        testimonial_9_name: "ಕುಶೀ ರವಿ",
+        testimonial_9_role: "ವೈದ್ಯಕೀಯ ನೆರವಿನ ಪ್ರಯೋಜನಗೊಳ್ಳುವವರು",
+        testimonial_9_text: "ಉಚಿತ ಆರೋಗ್ಯ ಶಿಬಿರವು ನನ್ನ ಜೀವವನ್ನು ಉಳಿಸಿತು. ವೈದ್ಯರು ಅಗತ್ಯತೆ ಮತ್ತು ಚಿಕಿತ್ಸೆ ಅತ್ಯುತ್ತಮವಾಗಿತ್ತು. ನಾನು ಯಾವಾಗಲೂ ಕೃತಜ್ಞಳಾಗಿದ್ದೇನೆ.",
+
+        testimonial_10_name: "ಪ್ರೇಮ್ ನೆನಪಿರಳಿ",
+        testimonial_10_role: "ಕೌಶಲ್ಯ ಅಭಿವೃದ್ಧಿ ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ ಭಾಗವಹಿಸಿದವರು",
+        testimonial_10_text: "ವೃತ್ತಿಪರ ತರಬೇತಿ ಕಾರ್ಯಕ್ರಮವು ನನ್ನ ಜೀವನವನ್ನು ಬದಲಾಯಿಸಿತು. ನಾನು ಟೇಲರಿಂಗ್ ಕಲಿತೆ ಮತ್ತು ಈಗ ಮನೆಯಿಂದ ಯಶಸ್ವಿ ವ್ಯವಹಾರವನ್ನು ನಡೆಸುತ್ತಿದ್ದೇನೆ.",
+
+        testimonial_11_name: "ಸುಕೃತಾ ವಾಗ್ಲೆ",
+        testimonial_11_role: "ಆಹಾರ ಬೆಂಬಲ ಕಾರ್ಯಕ್ರಮ ಪ್ರಯೋಜನಿಗೊಂಡವರು",
+        testimonial_11_text: "ಕಷ್ಟದ ಸಮಯದಲ್ಲಿ, ಸಂಸ್ಕಾರ ಟ್ರಸ್ಟ್ ನನ್ನ ಕುಟುಂಬಕ್ಕೆ ಆಹಾರ ಒದಗಿಸಿತು. ಅವರ ಬೆಂಬಲವು ನಮಗೆ ಭರವಸೆ ಮತ್ತು ಶಕ್ತಿ ನೀಡಿತು.",
 
         // Gallery Section
         gallery_title: "ಮಹಿಳಾ ಸಬಲೀಕರಣ ಗ್ಯಾಲರಿ",
@@ -329,7 +368,7 @@ const TRANSLATIONS = {
         gallery_vocational_training: "ವೃತ್ತಿ ತರಬೇತಿ ಸೆಶನ್",
         gallery_entrepreneurship_success: "ಉದ್ಯಮಶೀಲತಾ ಯಶಸ್ಸು",
         gallery_skill_workshop: "ಕೌಶಲ್ಯ ಅಭಿವೃದ್ಧಿ ಕಾರ್ಯಾಗಾರ",
-        gallery_success_kavita: "ಯಶೋಗಾಥೆ: ಕವಿತಾ ಅವರ ಪ್ರಯಾಣ",
+        gallery_success_karunya: "ಯಶೋಗಾಥೆ: ಕವಿತಾ ಅವರ ಪ್ರಯಾಣ",
         gallery_hands_on_learning: "ಅಭ್ಯಾಸಾಧಾರಿತ ಓದು",
         gallery_award_ceremony: "ಅವಾರ್ಡ್ ಸಮಾರಂಭ",
         gallery_women_leading_change: "ಬದಲಾವಣೆಯನ್ನು ನಡೆಸುವ ಮಹಿಳೆಯರು",
